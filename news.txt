@@ -1,1 +1,11 @@
+ [0.9.9.5a] - 2022-10-27
+ADDED: New Scoreboard
+FIXED: Zvuk sa58vrco
+ADDED: Model SUV
+             ATV
+ADDED: Skills
+ADDED: NPC's to Whetstone
+ADDED: Jobs/Quests in Whetstone
+CHANGED: Key for Journal: F1
+CHANGED: Animations: Comma, Period & Hyphen (, / . / -)
 
